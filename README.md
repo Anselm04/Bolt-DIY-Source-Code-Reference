@@ -6,7 +6,7 @@ Independent research copy of the original [stackblitz-labs/bolt.diy](https://git
 
 - Exact upstream source commit: `353b44c8f386aeb15abdf277515d78ff50f7578e`
 - Expected upstream Git tree: `4ef29c5ebb20bd60f9f060e0ddd67042ff217d80`
-- Source branch: [`bolt-diy-upstream-snapshot`](https://github.com/Anselm04/Bolt-DIY-Source-Code-Reference/tree/bolt-diy-upstream-snapshot/upstream) **(link available after verified import)**
+- Source branch: [`bolt-diy-upstream-snapshot`](https://github.com/Anselm04/Bolt-DIY-Source-Code-Reference/tree/bolt-diy-upstream-snapshot/upstream) **(import verified successfully)**
 - Upstream Git-tracked files in original verified reference: **720**
 - [Source import and verification workflow](.github/workflows/import-bolt-diy-source.yml)
 
