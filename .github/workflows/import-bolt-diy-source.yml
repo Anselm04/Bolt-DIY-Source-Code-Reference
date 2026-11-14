@@ -5,13 +5,13 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/workflows/import-dyad-source.yml']
+    paths: ['.github/workflows/import-bolt-diy-source.yml']
 
 permissions:
   contents: write
 
 concurrency:
-  group: dyad-source-import
+  group: bolt-diy-source-import
   cancel-in-progress: false
 
 jobs:
