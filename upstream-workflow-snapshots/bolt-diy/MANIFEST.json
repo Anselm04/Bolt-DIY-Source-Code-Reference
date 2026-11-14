@@ -1,0 +1,86 @@
+{
+  "source": "https://github.com/stackblitz-labs/bolt.diy.git",
+  "commit": "353b44c8f386aeb15abdf277515d78ff50f7578e",
+  "number_of_original_workflow_files": 13,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/ci.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/ci.yaml",
+      "git_blob": "1dcbb8e380188d166ded93f18b3ade8c9f9c7e57",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/docker.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/docker.yaml",
+      "git_blob": "3ba5b63b91bbc344baa2e9d25873e0f95a400d3e",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/docs.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/docs.yaml",
+      "git_blob": "e72858cfdc02e468400f745f741ff4c26782eec1",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/electron.yml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/electron.yml",
+      "git_blob": "24981ef1dc45ddfb7f5d744a0a052eefa9f28cfb",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/performance.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/performance.yaml",
+      "git_blob": "edcaf1b839e6b3c36c652cd9b9b0075f70d70399",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pr-release-validation.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/pr-release-validation.yaml",
+      "git_blob": "f319d6413000f7494fd9b9d0dc01eef280b0350f",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/preview.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/preview.yaml",
+      "git_blob": "e8588283d5eda608e247d6ebe8086a01bee07df8",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/quality.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/quality.yaml",
+      "git_blob": "8c3eb7ed0719455291ce430bbde5777a2784c8cc",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/security.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/security.yaml",
+      "git_blob": "a80c140ae9a038ba66205f40a035aa6cbe4feb1d",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/semantic-pr.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/semantic-pr.yaml",
+      "git_blob": "503b045524e650bc8a980fcd7238f6e296e58d89",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/stale.yml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/stale.yml",
+      "git_blob": "6a6a4e355f94412656017e94b2efac2b9f15e531",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/test-workflows.yaml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/test-workflows.yaml",
+      "git_blob": "8db087bf13a18199cea19969cefb8704471c12cf",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/update-stable.yml",
+      "reference_path": "upstream-workflow-snapshots/bolt-diy/.github/workflows/update-stable.yml",
+      "git_blob": "937c233374e4d1263f6ff33e902549024b8ae444",
+      "original_mode": "100644"
+    }
+  ]
+}
