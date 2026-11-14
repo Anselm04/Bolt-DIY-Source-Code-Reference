@@ -1,0 +1,32 @@
+{
+  "upstream": "https://github.com/stackblitz-labs/bolt.diy.git",
+  "upstream_commit": "353b44c8f386aeb15abdf277515d78ff50f7578e",
+  "audited_main_commit": "53f322da9282a122b04568d7040bb76bb12b4873",
+  "upstream_git_entries": 720,
+  "main_git_entries": 709,
+  "missing_count": 13,
+  "excluded_ci_paths_count": 13,
+  "other_missing_count": 0,
+  "object_or_mode_mismatch_count": 0,
+  "extra_count": 2,
+  "missing_paths": [
+    ".github/workflows/ci.yaml",
+    ".github/workflows/docker.yaml",
+    ".github/workflows/docs.yaml",
+    ".github/workflows/electron.yml",
+    ".github/workflows/performance.yaml",
+    ".github/workflows/pr-release-validation.yaml",
+    ".github/workflows/preview.yaml",
+    ".github/workflows/quality.yaml",
+    ".github/workflows/security.yaml",
+    ".github/workflows/semantic-pr.yaml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test-workflows.yaml",
+    ".github/workflows/update-stable.yml"
+  ],
+  "mismatches": [],
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ]
+}
